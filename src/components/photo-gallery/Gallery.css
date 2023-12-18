@@ -1,0 +1,28 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.gallery__columns{
+    display: flex;
+    flex-direction: column;
+    width: 32.5%;
+}
+
+.gallery__columns img{
+    width: 100%;
+    padding: 10px;
+    border-radius: 2rem;
+    overflow: hidden;
+}
+
+/* ========================== MEDIA QUERIES (SMALL DEVICES)========================== */
+
+@media screen and (max-width:600px) {
+
+    .gallery__columns img{
+        border-radius: 1rem;
+    }
+
+}
