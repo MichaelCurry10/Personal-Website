@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.d3c3566c.css",
+    "main.js": "/Personal-Website/static/js/main.ebe919e9.js",
+    "static/media/John_Lennon_Wall.jpeg": "/Personal-Website/static/media/John_Lennon_Wall.3a53e0100ed9ef1c59b7.jpeg",
+    "static/media/me.png": "/Personal-Website/static/media/me.38a293bdbf5ffb50cdfe.png",
+    "static/media/Zermatt.jpeg": "/Personal-Website/static/media/Zermatt.c862090c88c9b688f5df.jpeg",
+    "static/media/Sagrada_Familia.jpeg": "/Personal-Website/static/media/Sagrada_Familia.f53640635822da8786a8.jpeg",
+    "static/media/Lamb_Chops.jpeg": "/Personal-Website/static/media/Lamb_Chops.96b376b37461e7ee4fd4.jpeg",
+    "static/media/Sitges.jpeg": "/Personal-Website/static/media/Sitges.14b6fc959408f1a7968b.jpeg",
+    "static/media/Barcelona_Cathedral.jpeg": "/Personal-Website/static/media/Barcelona_Cathedral.70497964b9f909d45311.jpeg",
+    "static/media/St_Moritz.jpeg": "/Personal-Website/static/media/St_Moritz.52e879070587bad33723.jpeg",
+    "static/media/Acai_Bowl.jpeg": "/Personal-Website/static/media/Acai_Bowl.07a93106db48e946d236.jpeg",
+    "static/media/Lake_Como.jpeg": "/Personal-Website/static/media/Lake_Como.a8214821c9639fd7f063.jpeg",
+    "static/media/Amsterdam_Cookies.jpeg": "/Personal-Website/static/media/Amsterdam_Cookies.3122ec74214d1d7cb80b.jpeg",
+    "static/media/Eiffel_Tower.jpeg": "/Personal-Website/static/media/Eiffel_Tower.e0b7592f00c1d590aa51.jpeg",
+    "static/media/Lauterbrunnen.jpeg": "/Personal-Website/static/media/Lauterbrunnen.20d9fd91c0035e03eb26.jpeg",
+    "static/media/The W.jpeg": "/Personal-Website/static/media/The W.dd002b7e26b0f0367753.jpeg",
+    "static/media/Budapest_Parliment.jpeg": "/Personal-Website/static/media/Budapest_Parliment.172cfe3b19f3cfdb8bba.jpeg",
+    "static/media/Pizza.jpeg": "/Personal-Website/static/media/Pizza.5a67d4d22577369ba619.jpeg",
+    "static/media/First_Pano.jpeg": "/Personal-Website/static/media/First_Pano.b304933798641836bbcd.jpeg",
+    "static/media/Data-Visualization-Image.jpeg": "/Personal-Website/static/media/Data-Visualization-Image.15ede7b887b3328f976b.jpeg",
+    "static/media/Resume - Michael Curry.pdf": "/Personal-Website/static/media/Resume - Michael Curry.b116a0dccc9bbc9f376c.pdf",
+    "static/media/Bg-wood.png": "/Personal-Website/static/media/Bg-wood.0384df4c7611ccae4ccc.png",
+    "static/media/me-about.png": "/Personal-Website/static/media/me-about.ccc8e643eaf1e605b0cf.png",
+    "index.html": "/Personal-Website/index.html",
+    "main.d3c3566c.css.map": "/Personal-Website/static/css/main.d3c3566c.css.map",
+    "main.ebe919e9.js.map": "/Personal-Website/static/js/main.ebe919e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c3566c.css",
+    "static/js/main.ebe919e9.js"
+  ]
+}
